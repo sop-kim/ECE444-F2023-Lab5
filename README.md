@@ -12,5 +12,6 @@ Unit tests written
 * test_index_load
 * test_login_load
 * test_register_load
-https://github.com/ECE444-2023Fall/project-1-web-application-design-group25-pixelpals/pull/10/commits/32acbc3a57b70efbc211fd841c426c313763f4db#:~:text=client)%3A%20%20%20%20%23%20Jasmine%20Zhang-,def%20test_index_load(client)%3A,assert%20response.status_code%20%3D%3D%20200,-Footer
+
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group25-pixelpals/pull/10/commits/32acbc3a57b70efbc211fd841c426c313763f4db#:~:text=response.data-,%23%20Author%3A%20Sophie%20Kim,assert%20response.status_code%20%3D%3D%20200,-Footer
 More complicated tests will be written for other functionality soon.
