@@ -7,3 +7,10 @@ Using TDD can bring all developers on the same page before actually developing t
 **Cons of TDD**
 
 While TDD is being widely adopted as a good practice, it does have drawbacks. For one, it doesn’t always result in better code. Tests that are written poorly or incorrectly may cause unnecessary or incorrect code in return. This puts pressure on developers to write thorough tests that consider all possibilities. This means that TDD can take more time, as developers spend a significant portion of their time and effort writing and using tests carefully. 
+
+Unit tests written
+* test_index_load
+* test_login_load
+* test_register_load
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group25-pixelpals/pull/10/commits/32acbc3a57b70efbc211fd841c426c313763f4db#:~:text=client)%3A%20%20%20%20%23%20Jasmine%20Zhang-,def%20test_index_load(client)%3A,assert%20response.status_code%20%3D%3D%20200,-Footer
+More complicated tests will be written for other functionality soon.
